@@ -35,7 +35,7 @@ Le praticien met sa bavette en ne touchant qu'aux cordons puis enfile ses gants.
 - l'égalité des étages
 - la régularité du rebord basilaire
 - la qualité des téguments
-- la présence de fistules et autres atteintes visibles
+- la présence de fistules et autres atteintes visibles type tuméfaction
 - la présence de perlèches à proximité des commissures labiales
 - l'étendu de l'ouverture buccale et l’existence d'un éventuel trismus
 
@@ -43,7 +43,17 @@ Reportez toute les anomalies détectées sur vos notes.
 
 **Remarque:** une auscultation des ATMs et une palpation des aires ganglionnaires est de mise mais n'a pas était faite en démonstration.
 
-On passe alors à **l'examen endobuccale**. A l'aide du miroir en main droite, inspectez:
+On passe alors à **l'examen endobuccale** où l'on notera la aussi toutes les anomalies de forme, volume ou couleur retrouvées. A l'aide du miroir en main droite, inspectez:
+
+- appréciez l’hygiène endobuccale du patient
+- explorez les région palais, la face interne des joues, la face dorsale latérale et ventrale de la langue, le plancher buccal, les freins labiaux avec leurs insertions avec l’état de la muqueuse labiale et des faces occlusales dentaires.
+- demandez au patient de tirer sa langue ce qui permet l’inspection d’une partie de l’oropharynx.
+
+dans un deuxième on effectuera la palpation des:
+- planchers, la langue mobile, la base de la langue
+- noter l’aspect de la salive au niveau de l’ostium canalaire après expression manuelle de la glande concernée
+
+L’existence de douleurs provoquées est précisée ainsi que l’éventuelle présence d’une tuméfaction en notant la consistance et les limites de l’infiltration, ainsi que la présence d’une hyposthésie anesthésie notamment dans le territoire lingual.
 
 Une fois terminé l'examen clinique, présentez votre malade à votre superviseur sous forme d'un paragraphe qui reprendra tous les éléments cités précédemment. Une fois votre examen approuvé, procédez à l'avulsion proprement dite.
 
@@ -61,8 +71,8 @@ A partir de maintenant:
 - faire pénétrer l'aiguille au fond du vestibule à 45 degré et injecter très doucement les 2/3 de la carpule.
 - retirer doucement l'aiguille et la faire pénétrer du coté lingual/palatin et injecter le reste de la carpule afin d'anesthésier la muqueuse. Cette étape est souvent la plus douloureuse pour la patient et celle où le praticien aura parfois à piquer plusieurs fois.
 - Prendre soit de remettre la capuchon de l'aiguille a l'aide du miroir sur la plateau d'examen. **Ne jamais manipuler le capuchon avec vos doigts, au risque de vous piquer**.
-- Demander au patient de se rincer car il est probable que quelque goute d'anesthésique se soit déverser dans sa cavité buccale.
-- Attendre 30 secondes avant de procéder à l'étape suivante.
+- demander au patient de se rincer car il est probable que quelque goute d'anesthésique se soit déverser dans sa cavité buccale.
+- attendre 30 secondes avant de procéder à l'étape suivante.
 
 Notez que:
 
@@ -72,6 +82,14 @@ Notez que:
 - la blancheur de la muqueuse après anesthésie indique la réussite de cette dernière.
 
 #### La tronculaire
+Indiquée pour l’extraction des molaires mandibulaires, elle est complétée par une infiltration vestibulaire (afin d'anesthésier le nerf buccal). Utilisez un anesthésique sans vasoconstricteur. Elle nécessite une seringue permettant de réaliser une aspiration (seringue intramusculaire en générale).
+
+- repérer l’épine de Spix : repérage du bord antérieur de la branche montante de la mandibule puis de la lèvre interne 
+- piquer en repérant de la main gauche le bord antérieur de la branche montante à environ 1 cm du plan d’occlusion et on procédera à une rotation de la seringue de sorte que sont corps soit au dessus de la canine controlatérale
+- réaliser obligatoirement une aspiration qui ne devra pas contenir de sang (repiquer sinon)
+- on fait pénétrer l’aiguille jusqu’à obtention du contact osseux après quoi on la retire de 1 à 2 mm puis on injecte
+
+Le signe de Vincent d'Alger i.e. fourmillement de l'hémi-lèvre inférieure et alourdissement de l'hémi-langue, indique la réussite de votre tronculaire. 
 
 ### 2. La syndesmotomie
 C'est l'étape la plus facile. Prendre le syndesmotome de la main droite et le tenir comme un stylo. Écartez les muqueuses à l'aide du miroir en main gauche, et faites le tour du sulcus de la dent concernée avec le syndesmotome sans appliquer de force mais simplement en faisant pénétrer la lame suffisamment dans ce dernier. Un saignement devrait être visible. On passe à la luxation.
