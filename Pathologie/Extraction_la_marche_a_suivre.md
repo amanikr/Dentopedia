@@ -79,7 +79,7 @@ A partir de maintenant:
 - *exercice d'une force* = *maintient des tables osseuses avec la main gauche*
 
 ### 1. L'anesthésie
-#### La péri apicale
+#### La para apicale
 - insérer la carpule dans le porte carpule et le refermer, insérer l'aiguille et retirez sont capuchon que vous laissez dans le plateau.
 - faire sortir un peu de liquide anesthésique afin de vérifier qu'il n'y pas d'obstruction.
 - prendre le miroir de la main gauche et l'utiliser afin d'écarter les muqueuses et avoir une vue direct sur le point d'injection.
