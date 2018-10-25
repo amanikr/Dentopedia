@@ -3,6 +3,21 @@ Ceci est un guide pratique des étapes nécessaire à une extraction dentaire, s
 
 Pour cet acte, un assistant vous sera indispensable.
 
+### Sommaire:
+#### A. Avant de faire entrer votre patient
+#### B. Une fois votre malade sur la fauteuil
+#### C. L’avulsion
+##### 1. L'anesthésie
+###### - La péri apicale
+###### - La tronculaire
+##### 2. La syndesmotomie
+##### 3. La luxation
+##### 4. L'avulsion proprement dite
+##### 5. Hémostase et conseils post extractionnels
+#### D. Après libération du patient
+
+___
+
 ## A. Avant de faire entrer votre patient
 1. Se laver les mains
 
@@ -60,8 +75,8 @@ Une fois terminé l'examen clinique, présentez votre malade à votre superviseu
 ## C. L’avulsion
 A partir de maintenant:
 
-- *instrument coupant* $\Rightarrow$ *miroir en main gauche*
-- *exercice d'une force* $\Rightarrow$ *maintient des tables osseuses avec la main gauche*
+- *instrument coupant* = *miroir en main gauche*
+- *exercice d'une force* = *maintient des tables osseuses avec la main gauche*
 
 ### 1. L'anesthésie
 #### La péri apicale
@@ -117,10 +132,10 @@ Examiner les apex de la dent extraite visuellement et tactilement (ils doivent �
 ### 5. Hémostase et conseils post extractionnels
 A l'aide du coton salivaire, nettoyez la plaie, compressez la et rapprochez les table osseuse pendant 10 à 30 secondes. Si le saignement est jugé trop important, l'application d'un hémostatique local où de suture sera nécessaire.
 
-Mettre 1 ou 2 rouleau de coton salivaire au dessus de la plaie et demander au patient de mordre dessus, lui délivrer les conseils post extractionnels:
+Mettre 1 ou 2 rouleaux de coton salivaire au dessus de la plaie et demander au patient de mordre dessus, lui délivrer les conseils post extractionnels:
 
 - ne pas manger d'aliment chaud
-(TBC)
+(Section incomplète)
 
 Vous pouvez maintenant libérez votre patient.
 
