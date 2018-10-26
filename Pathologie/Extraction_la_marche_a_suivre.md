@@ -1,5 +1,5 @@
 # Extraction, la marche à suivre
-Ceci est un guide pratique des étapes nécessaire à une extraction dentaire, selon les normes enseignées au CHU Mustapha Pacha, service de pathologie buccaux dentaire, 2018/2019.
+Ceci est un guide pratique des étapes nécessaire à une extraction dentaire, selon les normes enseignées au CHU Mustapha Pacha, service de pathologie bucco-dentaire, 2018/2019.
 
 Pour cet acte, un assistant vous sera indispensable.
 
